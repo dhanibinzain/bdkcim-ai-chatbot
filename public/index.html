@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chatbot Akreditasi BPPK</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; background: #f7f7f7; }
+    #chatbox { max-width: 700px; margin: auto; background: #fff; padding: 20px; border-radius: 10px; }
+    .message { margin: 10px 0; }
+    .user { text-align: right; color: #007bff; }
+    .bot { text-align: left; color: #333; }
+    input[type="text"] { width: 80%; padding: 10px; border-radius: 5px; border: 1px solid #ccc; }
+    button { padding: 10px 20px; border-radius: 5px; border: none; background: #007bff; color: white; }
+  </style>
+</head>
+<body>
+  <div id="chatbox">
+    <h2>Chatbot Akreditasi BPPK</h2>
+    <div id="messages"></div>
+    <div style="margin-top: 20px;">
+      <input type="text" id="userInput" placeholder="Tanyakan sesuatu..." />
+      <button onclick="handleSend()">Kirim</button>
+    </div>
+  </div>
+
+  <script>
+    let dataset = [];
+
+    async function loadDataset() {
+      const res = await fetch('/dataset_qna_akreditasi.json');
+      dataset = await res.json();
+    }
+
+    async function findAnswer(question) {
+      const lowerQ = question.toLowerCase();
+      for (let item of dataset) {
+        if (lowerQ.includes(item.pertanyaan.toLowerCase())) {
+          return item.jawaban;
+        }
+      }
+      return "Maaf, saya belum menemukan jawaban untuk pertanyaan itu.";
+    }
+
+    async function handleSend() {
+      const input = document.getElementById("userInput");
+      const userText = input.value.trim();
+      if (!userText) return;
+
+      appendMessage("Anda", userText, "user");
+      input.value = "";
+
+      const answer = await findAnswer(userText);
+      appendMessage("Asisten", answer, "bot");
+    }
+
+    function appendMessage(sender, text, className) {
+      const msgDiv = document.createElement("div");
+      msgDiv.className = "message " + className;
+      msgDiv.innerHTML = `<strong>${sender}:</strong> ${text}`;
+      document.getElementById("messages").appendChild(msgDiv);
+    }
+
+    loadDataset();
+  </script>
+</body>
+</html>
