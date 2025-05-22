@@ -1,0 +1,690 @@
+[
+  {
+    "pertanyaan": "Apa itu akreditasi program pelatihan?",
+    "jawaban": "Akreditasi program pelatihan adalah proses penilaian kelayakan terhadap program pelatihan teknis yang dilaksanakan oleh Lembaga Pelatihan, untuk menjamin mutu sesuai pedoman BPPK."
+  },
+  {
+    "pertanyaan": "Apa dasar hukum pelaksanaan akreditasi program?",
+    "jawaban": "Dasar hukumnya adalah Peraturan Kepala BPPK Nomor 2 Tahun 2023 dan Keputusan Kepala BPPK Nomor 247 Tahun 2023."
+  },
+  {
+    "pertanyaan": "Apa saja tahap-tahap dalam proses akreditasi?",
+    "jawaban": "Tahapan akreditasi meliputi: 1) Pra-akreditasi, 2) Pelaksanaan akreditasi, dan 3) Pasca-akreditasi."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan self-assessment?",
+    "jawaban": "Self-assessment adalah evaluasi mandiri oleh Lembaga Pelatihan terhadap kelengkapan dokumen dan kesiapan mengikuti proses akreditasi. Biasanya dilakukan menggunakan formulir evaluasi diri."
+  },
+  {
+    "pertanyaan": "Siapa yang tergabung dalam Tim Asesor Akreditasi?",
+    "jawaban": "Tim asesor dapat terdiri dari widyaiswara, tenaga pengajar, praktisi, atau ASN yang memiliki pengalaman relevan dan pelatihan asesor."
+  },
+  {
+    "pertanyaan": "Apa kriteria penilaian dalam akreditasi program pelatihan?",
+    "jawaban": "Penilaian mencakup: administrasi lembaga, penyelenggaraan program, kurikulum, metode, evaluasi peserta, dan hasil pembelajaran. Setiap aspek dinilai berdasarkan bobot yang ditetapkan."
+  },
+  {
+    "pertanyaan": "Bagaimana menentukan peringkat akreditasi?",
+    "jawaban": "Nilai akhir ≥ 71 untuk terakreditasi. Peringkat: C (71–80,99), B (81–90,99), A (91–100)."
+  },
+  {
+    "pertanyaan": "Apa perbedaan re-akreditasi dan peningkatan peringkat?",
+    "jawaban": "Re-akreditasi dilakukan jika masa berlaku habis. Peningkatan peringkat dilakukan atas inisiatif LP untuk menaikkan status dari C atau B menjadi lebih tinggi."
+  },
+  {
+    "pertanyaan": "Apa saja kewajiban Lembaga Pelatihan yang telah terakreditasi?",
+    "jawaban": "Lembaga Penyelenggara Program Pelatihan Terakreditasi mempunyai kewajiban: a. mempertahankan dan/atau meningkatan kualitas predikat dan/atau status Akreditasi Program; b. melaksanakan rekomendasi hasil penilaian dan meningkatkan kualitas pengelolaan Program Pelatihan Terakreditasi; c. menyampaikan rencana penyelenggaraan Program Pelatihan Terakreditasi untuk periode 1 (satu) tahun berikutnya; d. menyelenggarakan Program Pelatihan Terakreditasi paling sedikit 1 (satu) kali dalam 1 (satu) tahun; dan e. menyampaikan laporan pelaksanaan Program Pelatihan Terakreditasi."
+  },
+  {
+    "pertanyaan": "Apa hak Lembaga Pelatihan setelah terakreditasi?",
+    "jawaban": "Lembaga Penyelenggara Program Pelatihan Terakreditasi mempunyai hak: a. menyelenggarakan Program Pelatihan Terakreditasi; b. menerbitkan surat keterangan pelatihan Program Pelatihan Terakreditasi; dan c. memperoleh pembinaan dan informasi terkait Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Berapa lama masa berlaku akreditasi program pelatihan?",
+    "jawaban": "Peringkat Akreditasi Program sebagaimana dimaksud pada ayat (1) memiliki masa berlaku: a. peringkat A berlaku selama 5 (lima) tahun; b. peringkat B berlaku selama 3 (tiga) tahun; atau c. peringkat C berlaku selama 2 (dua) tahun, terhitung sejak hasil penilaian akhir Akreditasi Program  ditetapkan."
+  },
+  {
+    "pertanyaan": "Surat Permohonan Rencana Akreditasi Program ditujukan kepada siapa?",
+    "jawaban": "Kepala Badan Pendidikan dan Pelatihan Keuangan (BPPK)"
+  },
+  {
+    "pertanyaan": "Surat Permohonan Rencana Akreditasi Program ditandatangani oleh siapa?",
+    "jawaban": "Pimpinan Lembaga Pelatihan"
+  },
+  {
+    "pertanyaan": "Apa atau siapa yang dimaksud dengan Lembaga Pelatihan disingkat LP?",
+    "jawaban": "Lembaga Pendidikan dan Pelatihan Pemerintah yang selanjutnya disebut Lembaga Pelatihan adalah unit kerja di lingkungan instansi pemerintah pusat atau daerah yang memiliki tugas dan fungsi menyelenggarakan pengembangan kompetensi aparatur sipil negara melalui pelatihan."
+  },
+  {
+    "pertanyaan": "Ap itu Lembaga Penyelenggara Program Pelatihan Terakreditasi atau LPPPT?",
+    "jawaban": "Lembaga Penyelenggara Program Pelatihan Terakreditasi disingkat LP3T atau LPPPT adalah Lembaga Pelatihan yang telah mendapatkan sertifikat Akreditasi Program untuk menyelenggarakan Pelatihan di Bidang Keuangan Negara berdasarkan Keputusan Kepala Badan Pendidikan dan Pelatihan Keuangan mengenai hasil penilaian akhir Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa itu Pelatihan teknis?",
+    "jawaban": "Pelatihan Teknis adalah Pelatihan yang dilakukan untuk memberikan pengetahuan dan/atau penguasaan keterampilan di bidang tugas yang terkait dengan pekerjaan Pegawai Negeri Sipil, agar mampu melaksanakan tugas dan tanggung jawabnya secara  profesional."
+  },
+  {
+    "pertanyaan": "Program pelatihan apa yang dimaksud atau diatur Dalam ketentuan ini atau yang akreditasinya dari Kementerian Keuangan c.q. BPPK?",
+    "jawaban": "Program pelatihan di Bidang Keuangan Negara. Bidang Keuangan Negara adalah ruang lingkup Keuangan Negara sebagaimana dimaksud dalam undang-undang mengenai keuangan negara. Contohnya: Pengelolaan Keuangan, Penganggaran, Pengelolaan Aset, Pemeriksaan Pajak Daerah, dan sebagainya."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan Akreditasi Program?",
+    "jawaban": "Akreditasi Program Pelatihan Teknis di Bidang Keuangan Negara yang selanjutnya disebut Akreditasi Program adalah penilaian kelayakan terhadap program pelatihan sesuai dengan pedoman yang ditetapkan oleh Badan Pendidikan dan Pelatihan Keuangan (BPPK)."
+  },
+  {
+    "pertanyaan": "Ap itu Porgram pelatihan?",
+    "jawaban": "Program Pelatihan yang diajukan Akreditasi yang selanjutnya disebut Program Pelatihan adalah program pelatihan yang diajukan oleh Lembaga Pelatihan untuk dilakukan Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa itu program pelatihan terakreditasi yang disingkat PPT?",
+    "jawaban": "Program Pelatihan Terakreditasi adalah Program Pelatihan yang telah mendapatkan status terakreditasi dari Badan Pendidikan dan Pelatihan Keuangan."
+  },
+  {
+    "pertanyaan": "Apa itu Pusdiklat?",
+    "jawaban": "Pusat Pendidikan dan Pelatihan yang selanjutnya disebut Pusdiklat adalah Unit Jabatan Pimpinan Tinggi Pratama di lingkungan BPPK yang mempunyai tugas membina pendidikan, pelatihan, sertifikasi kompetensi Keuangan Negara dan/atau pengembangan sumber daya manusia keuangan berdasarkan kebijakan teknis yang ditetapkan oleh Kepala BPPK."
+  },
+  {
+    "pertanyaan": "Apa itu Pusdiklat Pemilik Program?",
+    "jawaban": "Pusdiklat Pemilik Program adalah Pusdiklat yang bertanggung jawab atas program pelatihan tertentu di Bidang Keuangan Negara sesuai peraturan perundang-undangan dan ketentuan pelaksanaannya"
+  },
+  {
+    "pertanyaan": "Apa itu Balai Diklat Keuangan atau disingkat BDK?",
+    "jawaban": "Balai Pendidikan dan Pelatihan Keuangan yang selanjutnya disebut Balai Diklat Keuangan adalah unit pelaksana teknis BPPK yang berada di bawah dan bertanggung jawab kepada Kepala BPPK melalui Sekretaris BPPK."
+  },
+  {
+    "pertanyaan": "Apa itu Tim Penilai Akhir??",
+    "jawaban": "Tim yang bertugas memutuskan hasil akhir penilaian Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa itu Tim Asesor?",
+    "jawaban": "Tim yang bertugas melaksanakan penilaian kelayakan dalam proses Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa itu Tim Sekretariat?",
+    "jawaban": "Tim yang bertugas memberikan bantuan administratif dalam menunjang kelancaran proses Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa itu Tim Evaluator?",
+    "jawaban": "Tim yang bertugas melaksanakan pemantauan dan evaluasi pelaksanaan Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Siapa itu Tenaga Pengajar?",
+    "jawaban": "ASN di lingkungan Kementerian Keuangan yang memiliki riwayat mengajar pada Program Pelatihan."
+  },
+  {
+    "pertanyaan": "Apa itu Rapat Pravisitasi?",
+    "jawaban": "Kegiatan persiapan pelaksanaan visitasi."
+  },
+  {
+    "pertanyaan": "Apa itu Visitasi?",
+    "jawaban": "Kegiatan untuk memverifikasi dan/atau meminta data tambahan terhadap kelengkapan data yang disampaikan Lembaga Pelatihan."
+  },
+  {
+    "pertanyaan": "Apa itu Rapat Penilaian Akhir?",
+    "jawaban": "Kegiatan persiapan pelaksanaan visitasi."
+  },
+  {
+    "pertanyaan": "Apa saja tahapan dalam Praakreditasi Program?",
+    "jawaban": "Tahapan Praakreditasi Program meliputi: (a) permohonan rencana Akreditasi Program, (b) tanggapan atas permohonan, (c) identifikasi kebutuhan pengembangan kompetensi, (d) self assessment, dan (e) konsultasi. Dapat dilanjutkan dengan pendampingan jika diperlukan."
+  },
+  {
+    "pertanyaan": "Bagaimana cara mengajukan permohonan Akreditasi Program?",
+    "jawaban": "Dengan menyampaikan surat permohonan dari pimpinan Lembaga Pelatihan kepada Kepala BPPK."
+  },
+  {
+    "pertanyaan": "Apa saja isi surat permohonan Akreditasi Program?",
+    "jawaban": "Isi surat: (a) jenis pengajuan, (b) bukti akreditasi dari LAN, (c) daftar program yang diajukan, (d) kontak lembaga, (e) riwayat pelatihan, (f) masa berlaku/peringkat sebelumnya jika reakreditasi."
+  },
+  {
+    "pertanyaan": "Siapa yang memberikan tanggapan atas permohonan Akreditasi Program?",
+    "jawaban": "Pimpinan unit di BPPK yang mengelola akreditasi, ditunjuk oleh Kepala BPPK."
+  },
+  {
+    "pertanyaan": "Apa isi tanggapan atas permohonan Akreditasi Program?",
+    "jawaban": "Isi tanggapan: (a) tindak lanjut permohonan, (b) kewajiban penyampaian dokumen, (c) unit BPPK yang menindaklanjuti."
+  },
+  {
+    "pertanyaan": "Apa itu identifikasi kebutuhan pengembangan kompetensi?",
+    "jawaban": "Serangkaian proses untuk mengidentifikasi kesenjangan pengetahuan, keterampilan, dan sikap guna pengembangan SDM."
+  },
+  {
+    "pertanyaan": "Siapa yang melaksanakan identifikasi kebutuhan kompetensi?",
+    "jawaban": "Dilaksanakan oleh Pusdiklat Pemilik Program dan/atau Balai Diklat Keuangan."
+  },
+  {
+    "pertanyaan": "Apa hasil dari identifikasi kebutuhan kompetensi?",
+    "jawaban": "Berupa rekomendasi pengembangan kompetensi atau rekomendasi pelaksanaan Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan rekomendasi pengembangan kompetensi?",
+    "jawaban": "Rekomendasi berupa pelatihan dan/atau kerja sama program pembelajaran yang dikelola oleh BPPK."
+  },
+  {
+    "pertanyaan": "Apa isi rekomendasi pelaksanaan Akreditasi Program?",
+    "jawaban": "Berisi body of knowledge, persyaratan, dan informasi pendukung akreditasi."
+  },
+  {
+    "pertanyaan": "Apa itu Body of Knowledge (BoK)?",
+    "jawaban": "BoK adalah daftar keilmuan di bidang Keuangan Negara yang terdiri atas pengetahuan kritis dan esensial."
+  },
+  {
+    "pertanyaan": "Apa kegunaan Body of Knowledge?",
+    "jawaban": "Menjadi acuan bagi Tim Asesor dalam menilai kelayakan Program Pelatihan."
+  },
+  {
+    "pertanyaan": "Apa itu self assessment dalam akreditasi?",
+    "jawaban": "Evaluasi mandiri oleh Lembaga Pelatihan atas pemenuhan dokumen akreditasi."
+  },
+  {
+    "pertanyaan": "Apa saja unsur yang dinilai dalam self assessment?",
+    "jawaban": "Unsur: perencanaan, penyelenggaraan, evaluasi, hasil, dan dukungan program pelatihan."
+  },
+  {
+    "pertanyaan": "Apa format self assessment yang digunakan?",
+    "jawaban": "Menggunakan formulir pada Lampiran E Perkaban."
+  },
+  {
+    "pertanyaan": "Apa tujuan dari self assessment?",
+    "jawaban": "Untuk mengukur kesiapan lembaga dalam memenuhi kelengkapan permohonan akreditasi."
+  },
+  {
+    "pertanyaan": "Apa itu konsultasi dalam tahapan praakreditasi?",
+    "jawaban": "Kegiatan permintaan saran, masukan, atau pendapat terkait pemenuhan dokumen akreditasi."
+  },
+  {
+    "pertanyaan": "Apa hasil dari konsultasi?",
+    "jawaban": "Dapat berupa saran perbaikan, konfirmasi dokumen, atau rekomendasi pendampingan."
+  },
+  {
+    "pertanyaan": "Apa itu pendampingan Akreditasi Program?",
+    "jawaban": "Asistensi teknis oleh unit BPPK untuk membantu lembaga memenuhi syarat akreditasi."
+  },
+  {
+    "pertanyaan": "Apa batas waktu maksimal pendampingan?",
+    "jawaban": "Paling lama 6 bulan."
+  },
+  {
+    "pertanyaan": "Apa isi laporan hasil pendampingan?",
+    "jawaban": "Berisi ringkasan pelaksanaan, capaian pendampingan, dan kesiapan lembaga."
+  },
+  {
+    "pertanyaan": "Kapan laporan hasil pendampingan disampaikan?",
+    "jawaban": "Segera setelah pendampingan selesai, sebelum masuk tahap pelaksanaan akreditasi."
+  },
+  {
+    "pertanyaan": "Apa saja tahapan pelaksanaan Akreditasi Program?",
+    "jawaban": "Tahapan pelaksanaan Akreditasi Program terdiri atas: (a) pemberitahuan persetujuan permohonan, (b) penetapan tim, (c) pemeriksaan kelengkapan dokumen, (d) entry meeting, (e) pemeriksaan kesesuaian dokumen, (f) rapat pravisitasi, (g) visitasi, (h) penilaian, (i) rapat penilaian akhir dan exit meeting, (j) penetapan hasil penilaian akhir, dan (k) penyampaian hasil penilaian akhir."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan pemberitahuan persetujuan permohonan?",
+    "jawaban": "Adalah surat dari BPPK kepada Lembaga Pelatihan yang menyatakan permohonan dapat dilanjutkan ke tahap pelaksanaan akreditasi."
+  },
+  {
+    "pertanyaan": "Apa saja isi pemberitahuan persetujuan permohonan?",
+    "jawaban": "Memuat: (a) persetujuan melanjutkan ke tahap akreditasi, dan (b) permintaan pemenuhan kelengkapan dokumen akreditasi."
+  },
+  {
+    "pertanyaan": "Siapa yang menetapkan Tim Akreditasi Program?",
+    "jawaban": "Kepala BPPK melalui Surat Keputusan paling lambat 5 hari kerja setelah surat persetujuan diterima."
+  },
+  {
+    "pertanyaan": "Siapa saja yang termasuk dalam Tim Akreditasi Program?",
+    "jawaban": "Terdiri atas: (a) Tim Penilai Akhir, (b) Tim Asesor, dan (c) Tim Sekretariat."
+  },
+  {
+    "pertanyaan": "Siapa yang menjadi Ketua Tim Penilai Akhir?",
+    "jawaban": "Kepala BPPK menjabat sebagai ketua merangkap anggota Tim Penilai Akhir."
+  },
+  {
+    "pertanyaan": "Apa tugas Tim Penilai Akhir?",
+    "jawaban": "Menentukan dan menetapkan hasil akhir penilaian Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Siapa saja anggota Tim Asesor?",
+    "jawaban": "Widyaiswara, tenaga pengajar, praktisi/asesor, atau pegawai bersertifikat asesor."
+  },
+  {
+    "pertanyaan": "Berapa jumlah maksimal anggota Tim Asesor?",
+    "jawaban": "Tim Asesor terdiri dari jumlah ganjil dan maksimal 3 orang per program."
+  },
+  {
+    "pertanyaan": "Apa tugas Tim Sekretariat?",
+    "jawaban": "Memberikan bantuan administratif dan koordinasi teknis pelaksanaan akreditasi."
+  },
+  {
+    "pertanyaan": "Apa bentuk pemeriksaan kelengkapan dokumen permohonan?",
+    "jawaban": "Pemeriksaan awal dokumen oleh Tim Sekretariat sesuai dengan formulir di Lampiran F."
+  },
+  {
+    "pertanyaan": "Apa yang terjadi jika dokumen tidak lengkap?",
+    "jawaban": "BPPK memberikan pemberitahuan untuk melengkapi dokumen dan rencana entry meeting."
+  },
+  {
+    "pertanyaan": "Berapa lama waktu untuk melengkapi dokumen?",
+    "jawaban": "Lembaga harus melengkapi dalam waktu 3 hari kerja setelah pemberitahuan diterima."
+  },
+  {
+    "pertanyaan": "Apa itu Entry Meeting dalam akreditasi?",
+    "jawaban": "Pertemuan awal untuk menyampaikan tahapan, tujuan, dan lini masa akreditasi."
+  },
+  {
+    "pertanyaan": "Siapa yang wajib hadir dalam Entry Meeting?",
+    "jawaban": "Diikuti oleh Tim Asesor, Tim Sekretariat, dan perwakilan Lembaga Pelatihan."
+  },
+  {
+    "pertanyaan": "Apa tujuan pemeriksaan kesesuaian dokumen?",
+    "jawaban": "Untuk mencocokkan isi dokumen dengan persyaratan, dilakukan oleh Tim Asesor."
+  },
+  {
+    "pertanyaan": "Apa itu Rapat Pravisitasi?",
+    "jawaban": "Rapat untuk membahas hasil pemeriksaan dokumen dan merencanakan visitasi."
+  },
+  {
+    "pertanyaan": "Apa yang dihasilkan dari Rapat Pravisitasi?",
+    "jawaban": "Berupa daftar dokumen yang perlu dilengkapi dan/atau jadwal visitasi."
+  },
+  {
+    "pertanyaan": "Apa itu Visitasi dalam akreditasi?",
+    "jawaban": "Kunjungan daring atau luring oleh Tim Asesor untuk verifikasi dan observasi lapangan."
+  },
+  {
+    "pertanyaan": "Siapa saja yang hadir dalam Visitasi?",
+    "jawaban": "Tim Asesor, Tim Sekretariat, pimpinan lembaga, penyelenggara, penjamin mutu, dan pengajar."
+  },
+  {
+    "pertanyaan": "Apa media dokumentasi untuk visitasi daring?",
+    "jawaban": "Lembaga harus menyiapkan dokumentasi visual dan/atau audiovisual."
+  },
+  {
+    "pertanyaan": "Apa unsur yang dinilai dalam akreditasi?",
+    "jawaban": "Penilaian meliputi: (a) perencanaan, (b) penyelenggaraan, (c) evaluasi, (d) hasil, dan (e) dukungan program."
+  },
+  {
+    "pertanyaan": "Siapa yang melakukan penilaian akreditasi?",
+    "jawaban": "Tim Asesor melakukan penilaian berdasarkan indikator yang ditentukan."
+  },
+  {
+    "pertanyaan": "Apa itu Rapat Penilaian Akhir?",
+    "jawaban": "Rapat yang dilakukan oleh Tim Penilai Akhir untuk menetapkan hasil akhir akreditasi."
+  },
+  {
+    "pertanyaan": "Apa isi berita acara Rapat Penilaian Akhir?",
+    "jawaban": "Memuat nilai akhir, status akreditasi (terakreditasi/tidak), dan peringkat (A/B/C)."
+  },
+  {
+    "pertanyaan": "Bagaimana rentang nilai untuk peringkat akreditasi?",
+    "jawaban": "A = 91-100, B = 81-90,99, C = 71-80,99. Nilai < 71 = tidak terakreditasi."
+  },
+  {
+    "pertanyaan": "Apa masa berlaku masing-masing peringkat?",
+    "jawaban": "A = 5 tahun, B = 3 tahun, C = 2 tahun sejak tanggal penetapan hasil akhir."
+  },
+  {
+    "pertanyaan": "Apa itu Exit Meeting?",
+    "jawaban": "Pertemuan untuk menyampaikan hasil penilaian akhir dan rekomendasi perbaikan."
+  },
+  {
+    "pertanyaan": "Apa kewajiban lembaga dalam Exit Meeting?",
+    "jawaban": "Menyatakan kesanggupan terhadap rekomendasi perbaikan yang diberikan."
+  },
+  {
+    "pertanyaan": "Apa dasar hukum penetapan hasil akhir akreditasi?",
+    "jawaban": "Keputusan Kepala BPPK berdasarkan berita acara Rapat Penilaian Akhir."
+  },
+  {
+    "pertanyaan": "Apa yang diterima lembaga jika dinyatakan terakreditasi?",
+    "jawaban": "Surat keputusan hasil akhir dan sertifikat Akreditasi Program."
+  },
+  {
+    "pertanyaan": "Apa yang diterima lembaga jika tidak terakreditasi?",
+    "jawaban": "Surat keputusan hasil akhir dan surat pemberitahuan tidak terakreditasi. Surat keputusan hasil akhir dan surat pemberitahuan tidak terakreditasi."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan pascaakreditasi program?",
+    "jawaban": "Pascaakreditasi adalah tahapan setelah program pelatihan mendapatkan hasil akreditasi, yang terdiri atas pembinaan dan pemantauan serta evaluasi terhadap lembaga penyelenggara."
+  },
+  {
+    "pertanyaan": "Apa saja kegiatan dalam pascaakreditasi?",
+    "jawaban": "Terdiri dari dua kegiatan utama: (a) pembinaan, dan (b) pemantauan serta evaluasi."
+  },
+  {
+    "pertanyaan": "Siapa yang melaksanakan pembinaan?",
+    "jawaban": "Pembinaan dilaksanakan oleh BPPK setiap tahun dan secara operasional dilakukan oleh Pusdiklat Pemilik Program."
+  },
+  {
+    "pertanyaan": "Apa bentuk kegiatan pembinaan?",
+    "jawaban": "Pembinaan meliputi: penyediaan pedoman pembelajaran, pengembangan kompetensi pengajar, pendampingan desain dan bahan ajar, penyediaan tenaga pengajar, dan pemberian informasi pemenuhan unsur akreditasi."
+  },
+  {
+    "pertanyaan": "Bagaimana bentuk teknis pembinaan dilakukan?",
+    "jawaban": "Melalui FGD yang dikelola lembaga, pelatihan oleh BPPK, atau kegiatan lain yang disepakati bersama."
+  },
+  {
+    "pertanyaan": "Apakah semua program pelatihan terakreditasi mendapatkan pembinaan?",
+    "jawaban": "Tidak. Pembinaan untuk penyusunan desain dan bahan ajar hanya diberikan untuk program tertentu sesuai kebijakan BPPK pada tahun berjalan."
+  },
+  {
+    "pertanyaan": "Apa tujuan dari pembinaan dalam pascaakreditasi?",
+    "jawaban": "Untuk menjaga dan meningkatkan kualitas penyelenggaraan Program Pelatihan Terakreditasi."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan pemantauan dan evaluasi?",
+    "jawaban": "Kegiatan untuk menilai kesesuaian penyelenggaraan pelatihan dengan persyaratan akreditasi dan tindak lanjut rekomendasi."
+  },
+  {
+    "pertanyaan": "Siapa yang melaksanakan pemantauan dan evaluasi?",
+    "jawaban": "Dilaksanakan oleh BPPK setiap tahun, dan secara operasional dilakukan oleh Tim Evaluator yang ditetapkan oleh Kepala BPPK."
+  },
+  {
+    "pertanyaan": "Siapa saja yang termasuk dalam Tim Evaluator?",
+    "jawaban": "Pegawai dari unit pengelola akreditasi, Pusdiklat Pemilik Program, dan/atau Balai Diklat Keuangan."
+  },
+  {
+    "pertanyaan": "Apa bentuk kegiatan pemantauan dan evaluasi?",
+    "jawaban": "Berupa observasi langsung dan/atau reviu laporan pelaksanaan program pelatihan terakreditasi."
+  },
+  {
+    "pertanyaan": "Apa saja yang diamati dalam observasi?",
+    "jawaban": "Pelaksanaan program pelatihan, berlangsung maksimal 5 hari kerja, dan dilakukan berdasarkan rencana pelatihan dari lembaga."
+  },
+  {
+    "pertanyaan": "Apa saja yang dikaji dalam reviu laporan?",
+    "jawaban": "Data dan informasi dari lembaga, laporan pelaksanaan pelatihan, serta laporan tindak lanjut rekomendasi hasil pemantauan sebelumnya."
+  },
+  {
+    "pertanyaan": "Apa hasil dari kegiatan pemantauan dan evaluasi?",
+    "jawaban": "Berita acara yang memuat: nilai pemantauan, rekomendasi, dan waktu pelaksanaan tindak lanjut."
+  },
+  {
+    "pertanyaan": "Siapa yang menandatangani berita acara pemantauan dan evaluasi?",
+    "jawaban": "Ketua Tim Evaluator dan pimpinan lembaga penyelenggara. Jika berhalangan, dapat digantikan oleh anggota tim."
+  },
+  {
+    "pertanyaan": "Berapa rangkap berita acara yang dibuat?",
+    "jawaban": "Dua rangkap: satu untuk lembaga penyelenggara dan satu untuk Kepala BPPK melalui Sekretaris Badan."
+  },
+  {
+    "pertanyaan": "Apa yang harus dilakukan lembaga setelah menerima rekomendasi pemantauan?",
+    "jawaban": "Melaksanakan tindak lanjut rekomendasi sesuai batas waktu yang ditentukan dalam berita acara."
+  },
+  {
+    "pertanyaan": "Apa sanksi jika lembaga tidak menindaklanjuti rekomendasi?",
+    "jawaban": "Lembaga dianggap tidak melaksanakan tindak lanjut dan bisa dikenakan sanksi sesuai peraturan BPPK."
+  },
+  {
+    "pertanyaan": "Apa yang harus disertakan dalam laporan tindak lanjut rekomendasi?",
+    "jawaban": "Laporan hasil tindak lanjut dan dokumen pendukung, disampaikan paling lambat 5 hari kerja setelah batas waktu."
+  },
+  {
+    "pertanyaan": "Apa tujuan akhir dari pascaakreditasi program?",
+    "jawaban": "Untuk memastikan bahwa program pelatihan yang telah terakreditasi tetap menjaga dan meningkatkan kualitasnya secara berkelanjutan."
+  },
+  {
+    "pertanyaan": "Apa itu reakreditasi program?",
+    "jawaban": "Reakreditasi program adalah proses akreditasi ulang terhadap program pelatihan yang masa berlaku peringkat akreditasinya telah berakhir."
+  },
+  {
+    "pertanyaan": "Kapan reakreditasi dapat diajukan?",
+    "jawaban": "Paling cepat 6 bulan sebelum masa berlaku peringkat akreditasi program berakhir."
+  },
+  {
+    "pertanyaan": "Apakah tahapan reakreditasi berbeda dengan akreditasi awal?",
+    "jawaban": "Tidak. Proses reakreditasi mengikuti tahapan yang sama seperti akreditasi awal (mutatis mutandis)."
+  },
+  {
+    "pertanyaan": "Apa itu peningkatan kualitas peringkat akreditasi?",
+    "jawaban": "Adalah proses pengajuan ulang oleh lembaga penyelenggara untuk memperoleh peringkat lebih tinggi tanpa menunggu masa berlaku habis."
+  },
+  {
+    "pertanyaan": "Kapan peningkatan kualitas dapat diajukan?",
+    "jawaban": "Paling cepat 1 tahun setelah keputusan penetapan hasil akreditasi diterima."
+  },
+  {
+    "pertanyaan": "Apakah tahapan peningkatan kualitas sama dengan akreditasi awal?",
+    "jawaban": "Ya. Mengikuti proses akreditasi dan pascaakreditasi yang sama (mutatis mutandis)."
+  },
+  {
+    "pertanyaan": "Apa itu pengajuan ulang akreditasi?",
+    "jawaban": "Adalah permohonan akreditasi ulang oleh lembaga yang sebelumnya dinyatakan tidak terakreditasi."
+  },
+  {
+    "pertanyaan": "Kapan pengajuan ulang akreditasi dapat dilakukan?",
+    "jawaban": "Paling cepat 1 tahun sejak penetapan hasil penilaian akhir sebelumnya."
+  },
+  {
+    "pertanyaan": "Apakah lembaga yang gagal akreditasi sebelumnya wajib didampingi?",
+    "jawaban": "Ya. Jika sebelumnya belum mendapatkan pendampingan, maka wajib dilakukan pendampingan terlebih dahulu."
+  },
+  {
+    "pertanyaan": "Apakah tahapan pengajuan ulang berbeda dari awal?",
+    "jawaban": "Tidak. Prosesnya mengikuti ketentuan tahapan akreditasi secara penuh (mutatis mutandis)."
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan mutatis mutandis dalam konteks ini?",
+    "jawaban": "Mutatis mutandis berarti proses yang berlaku sama dengan penyesuaian seperlunya."
+  },
+  {
+    "pertanyaan": "Siapa yang mengatur panduan untuk proses akreditasi dan pengulangannya?",
+    "jawaban": "Panduan ditetapkan dalam Keputusan Kepala BPPK untuk: (a) Lembaga Pelatihan, (b) Tim Asesor, dan (c) unit di lingkungan BPPK."
+  },
+  {
+    "pertanyaan": "Apa sanksi jika lembaga tidak melaksanakan rekomendasi Tim Evaluator?",
+    "jawaban": "Lembaga akan menerima surat teguran agar melaksanakan rekomendasi dalam jangka waktu yang ditetapkan."
+  },
+  {
+    "pertanyaan": "Apa yang terjadi jika lembaga tetap tidak melaksanakan rekomendasi setelah surat teguran?",
+    "jawaban": "BPPK akan membekukan status akreditasi lembaga selama maksimal 30 hari kerja. Selama masa ini, pelatihan tidak boleh dilakukan dan lulusan tidak diakui."
+  },
+  {
+    "pertanyaan": "Apa akibat jika lembaga tidak menindaklanjuti rekomendasi setelah masa pembekuan?",
+    "jawaban": "Status akreditasi dicabut oleh BPPK dan diumumkan di situs resmi. Lembaga tidak boleh menyelenggarakan pelatihan dan lulusan tidak diakui."
+  },
+  {
+    "pertanyaan": "Apa sanksi jika lembaga tidak menyampaikan rencana penyelenggaraan pelatihan?",
+    "jawaban": "BPPK memberikan teguran agar lembaga segera menyampaikan rencana penyelenggaraan sesuai waktu yang ditentukan."
+  },
+  {
+    "pertanyaan": "Apa konsekuensi bagi lulusan jika lembaga tidak menyampaikan rencana pelatihan tepat waktu?",
+    "jawaban": "Lulusan tetap diakui sepanjang lembaga segera menindaklanjuti teguran."
+  },
+  {
+    "pertanyaan": "Apa sanksi jika lembaga tidak menyampaikan laporan pelaksanaan pelatihan?",
+    "jawaban": "BPPK memberikan teguran agar lembaga segera menyampaikan laporan pelaksanaan."
+  },
+  {
+    "pertanyaan": "Apakah lulusan tetap diakui jika laporan pelaksanaan pelatihan terlambat disampaikan?",
+    "jawaban": "Ya, lulusan tetap diakui jika lembaga segera menindaklanjuti teguran."
+  },
+  {
+    "pertanyaan": "Apa saja unsur utama dalam penilaian akreditasi program?",
+    "jawaban": "Terdapat 5 unsur utama: (a) Perencanaan Program Pelatihan (25%), (b) Penyelenggaraan Program Pelatihan (25%), (c) Evaluasi Program Pelatihan (20%), (d) Hasil Penyelenggaraan Program Pelatihan (15%), (e) Dukungan Program Pelatihan (15%)."
+  },
+  {
+    "pertanyaan": "Apa yang dinilai dalam unsur Perencanaan Program Pelatihan?",
+    "jawaban": "Subunsur meliputi: identifikasi kebutuhan program pelatihan, penyusunan desain pelatihan, penetapan narasumber/pengajar, dan penjaminan mutu perencanaan pelatihan."
+  },
+  {
+    "pertanyaan": "Apa indikator dalam penyusunan desain pelatihan?",
+    "jawaban": "Indikator antara lain: tersedianya dokumen kurikulum, kesesuaian dengan kompetensi, tersedia bahan ajar/modul, serta metode dan teknik pembelajaran yang relevan."
+  },
+  {
+    "pertanyaan": "Apa saja aspek penilaian pada penyelenggaraan pelatihan?",
+    "jawaban": "Meliputi: pelaksanaan pembelajaran, manajemen kelas, ketepatan waktu, kehadiran pengajar dan peserta, serta evaluasi harian."
+  },
+  {
+    "pertanyaan": "Apa cakupan evaluasi program pelatihan?",
+    "jawaban": "Menilai bagaimana feedback dikumpulkan dan digunakan dari peserta, pengajar, dan panitia penyelenggara."
+  },
+  {
+    "pertanyaan": "Bagaimana pengukuran hasil penyelenggaraan pelatihan dilakukan?",
+    "jawaban": "Dengan menilai pencapaian tujuan belajar, tingkat kelulusan, dan rekomendasi pengembangan lanjutan."
+  },
+  {
+    "pertanyaan": "Apa yang termasuk dalam dukungan program pelatihan?",
+    "jawaban": "Indikatornya mencakup: fasilitas dan sarana prasarana, SDM pendukung, sistem informasi pelatihan, dan pendokumentasian kegiatan."
+  },
+  {
+    "pertanyaan": "Bagaimana bobot penilaian tiap unsur mempengaruhi nilai akhir?",
+    "jawaban": "Nilai akhir merupakan akumulasi bobot: Perencanaan (25%), Penyelenggaraan (25%), Evaluasi (20%), Hasil penyelenggaraan (15%), dan Dukungan program (15%)."
+  },
+  {
+    "pertanyaan": "Apa peran Balai Pendidikan dan Pelatihan Keuangan (BDK) dalam tahap praakreditasi?",
+    "jawaban": "BDK menindaklanjuti permohonan pengajuan Akreditasi Program, melakukan identifikasi kebutuhan kompetensi, pengarahan self-assessment, serta melaksanakan konsultasi dan pendampingan kepada lembaga pelatihan."
+  },
+  {
+    "pertanyaan": "Apa bentuk kegiatan identifikasi kebutuhan kompetensi oleh BDK?",
+    "jawaban": "BDK membentuk tim atau menugaskan pegawai untuk mengidentifikasi layanan pembelajaran yang tepat guna memenuhi kebutuhan pengembangan kompetensi."
+  },
+  {
+    "pertanyaan": "Bagaimana BDK melaksanakan pengarahan terkait Body of Knowledge (BoK)?",
+    "jawaban": "BDK menyampaikan informasi dan memberikan pengarahan mengenai BoK untuk memastikan kesesuaian program pelatihan dengan pelatihan teknis di bidang keuangan negara."
+  },
+  {
+    "pertanyaan": "Apa tindakan BDK jika hasil self-assessment belum siap?",
+    "jawaban": "BDK merekomendasikan dilakukan pendampingan selama maksimal 6 bulan."
+  },
+  {
+    "pertanyaan": "Siapa yang menyusun laporan hasil konsultasi dan pendampingan?",
+    "jawaban": "BDK menyusun dan menyampaikan laporan tersebut kepada unit pengelola akreditasi."
+  },
+  {
+    "pertanyaan": "Apa bentuk kegiatan pendampingan oleh BDK?",
+    "jawaban": "Meliputi pelatihan, bimbingan teknis, workshop, FGD, dan coaching, baik secara luring maupun daring."
+  },
+  {
+    "pertanyaan": "Apa peran BDK dalam entry meeting?",
+    "jawaban": "BDK sebagai bagian dari Tim Akreditasi mengikuti entry meeting secara luring atau daring."
+  },
+  {
+    "pertanyaan": "Apa tugas BDK dalam visitasi akreditasi?",
+    "jawaban": "BDK melakukan visitasi dan memastikan lembaga pelatihan menyediakan dokumentasi pendukung."
+  },
+  {
+    "pertanyaan": "Apa bentuk dokumentasi pendukung dalam visitasi daring?",
+    "jawaban": "Dokumentasi visual dan/atau audio visual terkait sarana pendukung pelatihan."
+  },
+  {
+    "pertanyaan": "Apa tanggung jawab BDK dalam pembinaan pascaakreditasi?",
+    "jawaban": "BDK memberikan dukungan kepada Pusat Pendidikan dan Pelatihan dalam pelaksanaan pembinaan program dan pengajar."
+  },
+  {
+    "pertanyaan": "Apa peran BDK dalam pemantauan dan evaluasi?",
+    "jawaban": "BDK sebagai bagian dari tim evaluator memantau lembaga secara periodik dan menyusun laporan hasilnya."
+  },
+  {
+    "pertanyaan": "Apa isi laporan pemantauan dan evaluasi oleh BDK?",
+    "jawaban": "Berisi hasil rekomendasi sebelumnya, tindak lanjutnya, dan rekomendasi selanjutnya."
+  },
+  {
+    "pertanyaan": "Bagaimana koordinasi BDK dengan Pusdiklat pemilik program?",
+    "jawaban": "BDK berkonsultasi dan menyampaikan rekomendasi pengembangan kompetensi ke Pusdiklat."
+  },
+  {
+    "pertanyaan": "Apa syarat hasil self-assessment dikatakan belum siap?",
+    "jawaban": "Jika dokumen yang dipenuhi kurang dari 70% dari persyaratan permohonan akreditasi."
+  },
+  {
+    "pertanyaan": "Siapa yang menentukan program memerlukan pendampingan?",
+    "jawaban": "BDK berdasarkan hasil konsultasi dan evaluasi self-assessment."
+  },
+  {
+    "pertanyaan": "Apakah BDK terlibat dalam penyampaian hasil akreditasi?",
+    "jawaban": "Tidak secara langsung, namun BDK berkontribusi dalam seluruh proses hingga exit meeting."
+  },
+  {
+    "pertanyaan": "Apa saja unsur yang dinilai BDK selama pendampingan?",
+    "jawaban": "Dokumen kurikulum, BoK, kesiapan sarana, dan SDM pelatihan."
+  },
+  {
+    "pertanyaan": "Apakah BDK dapat menolak permohonan akreditasi?",
+    "jawaban": "Tidak. BDK hanya memberikan rekomendasi teknis kepada unit pengelola akreditasi."
+  },
+  {
+    "pertanyaan": "Bagaimana jika lembaga pelatihan mengajukan pertanyaan selama proses?",
+    "jawaban": "BDK dapat memberikan penjelasan teknis terkait proses akreditasi sesuai kompetensinya."
+  },
+  {
+    "pertanyaan": "Apa bentuk koordinasi antara BDK dan unit pengelola akreditasi?",
+    "jawaban": "Koordinasi administratif dan teknis melalui laporan, konsultasi, dan kegiatan bersama dalam Tim Akreditasi."
+  },
+  {
+    "pertanyaan": "Apa langkah awal yang harus dilakukan lembaga pelatihan dalam proses akreditasi?",
+    "jawaban": "Lembaga pelatihan menyampaikan permohonan rencana Akreditasi Program kepada Kepala BPPK disertai dokumen persyaratan."
+  },
+  {
+    "pertanyaan": "Apa yang harus disiapkan lembaga untuk self-assessment?",
+    "jawaban": "Lembaga menyiapkan dan mengisi formulir evaluasi mandiri sesuai Lampiran E, termasuk dokumen seperti kurikulum, bahan ajar, dan bukti penyelenggaraan pelatihan."
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan jika hasil self-assessment belum mencapai 70%?",
+    "jawaban": "Lembaga dapat mengajukan permohonan pendampingan kepada BPPK melalui unit pelaksana."
+  },
+  {
+    "pertanyaan": "Apa itu konsultasi dalam proses akreditasi?",
+    "jawaban": "Konsultasi adalah permintaan saran atau klarifikasi kepada unit pelaksana akreditasi terkait kelengkapan dan kesesuaian dokumen."
+  },
+  {
+    "pertanyaan": "Apa tujuan pendampingan bagi lembaga pelatihan?",
+    "jawaban": "Untuk membantu lembaga dalam menyusun dan melengkapi dokumen, serta meningkatkan pemahaman terhadap standar akreditasi."
+  },
+  {
+    "pertanyaan": "Apa kewajiban lembaga sebelum entry meeting?",
+    "jawaban": "Melengkapi seluruh dokumen permohonan dan memastikan kesiapan administrasi serta substansi program pelatihan."
+  },
+  {
+    "pertanyaan": "Siapa yang hadir dari lembaga saat entry meeting?",
+    "jawaban": "Pimpinan lembaga, penyelenggara program, penjamin mutu, serta narasumber utama program pelatihan."
+  },
+  {
+    "pertanyaan": "Apa yang harus disiapkan lembaga saat visitasi?",
+    "jawaban": "Dokumen pendukung seperti presensi, laporan evaluasi, bukti pelaksanaan kegiatan, serta dokumentasi audiovisual jika daring."
+  },
+  {
+    "pertanyaan": "Apa peran lembaga dalam exit meeting?",
+    "jawaban": "Menerima hasil penilaian akhir dan menyatakan kesanggupan melaksanakan rekomendasi perbaikan jika diperlukan."
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan lembaga setelah dinyatakan terakreditasi?",
+    "jawaban": "Menyelenggarakan program pelatihan sesuai standar, menyampaikan laporan tahunan, dan mematuhi rekomendasi Tim Evaluator."
+  },
+  {
+    "pertanyaan": "Apa yang dilakukan lembaga setelah menerima teguran dari BPPK?",
+    "jawaban": "Segera melaksanakan tindak lanjut sesuai batas waktu yang ditetapkan dalam teguran."
+  },
+  {
+    "pertanyaan": "Apa konsekuensi jika lembaga tidak menindaklanjuti teguran?",
+    "jawaban": "BPPK dapat membekukan status akreditasi lembaga hingga 30 hari kerja."
+  },
+  {
+    "pertanyaan": "Apa yang terjadi jika lembaga tetap tidak menindaklanjuti setelah pembekuan?",
+    "jawaban": "Status akreditasi lembaga dapat dicabut dan diumumkan secara resmi di situs BPPK."
+  },
+  {
+    "pertanyaan": "Kapan lembaga dapat mengajukan peningkatan peringkat akreditasi?",
+    "jawaban": "Setelah 1 tahun sejak penetapan hasil akreditasi terakhir."
+  },
+  {
+    "pertanyaan": "Kapan lembaga dapat mengajukan reakreditasi?",
+    "jawaban": "Paling cepat 6 bulan sebelum masa berlaku akreditasi program berakhir."
+  },
+  {
+    "pertanyaan": "Kapan lembaga boleh mengajukan ulang jika sebelumnya tidak terakreditasi?",
+    "jawaban": "Setelah 1 tahun sejak keputusan hasil penilaian akhir sebelumnya."
+  },
+  {
+    "pertanyaan": "Apa kewajiban lembaga selama masa berlaku akreditasi?",
+    "jawaban": "Menyelenggarakan pelatihan sesuai standar, menyampaikan laporan pelaksanaan dan rencana pelatihan setiap tahun."
+  },
+  {
+    "pertanyaan": "Apa bentuk pelaporan yang wajib disampaikan lembaga?",
+    "jawaban": "Rencana pelatihan (1 bulan sebelum pelaksanaan pertama) dan laporan pelaksanaan (setiap Desember atau saat diminta)."
+  },
+  {
+    "pertanyaan": "Bagaimana lembaga berkoordinasi dengan BDK atau Pusdiklat?",
+    "jawaban": "Melalui kegiatan konsultasi, pendampingan, dan pelaporan serta permintaan informasi teknis."
+  },
+  {
+    "pertanyaan": "Apa panduan yang harus diacu lembaga dalam menyiapkan akreditasi?",
+    "jawaban": "Mengacu pada Pedoman Akreditasi, Lampiran-lampiran dalam Perkaban/Keputusan, serta arahan dari BPPK dan unit pelaksana."
+  }
+]
